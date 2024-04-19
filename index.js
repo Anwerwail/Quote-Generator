@@ -8,7 +8,8 @@ const quotes = [
   "Don't watch the clock; do what it does. Keep going. - Sam Levenson",
   "The only limit to our realization of tomorrow will be our doubts of today. - Franklin D. Roosevelt",
   "It does not matter how slowly you go as long as you do not stop. - Confucius",
-  "Believe you can and you're halfway there. - Theodore Roosevelt"
+  "Believe you can and you're halfway there. - Theodore Roosevelt",
+  "If you want to buy something without looking to the price you should work without looking to the clock. - A wise man"
 ];
 
 const quoteElement = document.getElementById("quote");
